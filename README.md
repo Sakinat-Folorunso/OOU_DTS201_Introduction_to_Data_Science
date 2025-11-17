@@ -85,3 +85,10 @@ Notebook: `notebooks/DTS201_Week10_PH_Student_Centred.ipynb`
 Notebook: `notebooks/DTS201_Week11_PH_Student_Centred.ipynb`  
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakinat-Folorunso/OOU_DTS201_Introduction_to_Data_Science/blob/main/notebooks/DTS201_Week11_PH_Student_Centred.ipynb)
+
+Exploratory Data Analysis (EDA): Student-Centered Practical Notebook
+
+Notebook: `notebooks/DTS201_EDA_PH_Student_Centred.ipynb`  
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakinat-Folorunso/OOU_DTS201_Introduction_to_Data_Science/blob/main/notebooks/DTS201_EDA_PH_Student_Centred.ipynb)
+
